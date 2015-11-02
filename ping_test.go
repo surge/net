@@ -20,7 +20,7 @@ import (
 	"time"
 
 	"github.com/stretchr/testify/require"
-	"github.com/surgebase/glog"
+	"github.com/surge/glog"
 )
 
 func TestPingerAddIPs(t *testing.T) {
